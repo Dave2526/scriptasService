@@ -1,3 +1,5 @@
+copy from https://gist.github.com/emxsys/a507f3cad928e66f6410e7ac28e2990f
+
 # How to Run a Script as a Service in Raspberry Pi - Raspbian Jessie
 **By: Diego Acuña**
 
